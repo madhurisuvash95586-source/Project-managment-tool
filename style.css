@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif
+}
+
+.column {
+    background: #f4f4f4;
+    padding: 12;
+    border-radius: 6;
+    width: 30%
+}
+
+.task {
+    background: #fff;
+    padding: 10;
+    margin: 8px 0;
+    border-radius: 4;
+    border: 1px solid #ddd;
+    cursor: grab
+}
+
+.form {
+    max-width: 380px;
+    padding: 20px;
+    margin: 40px auto
+}
+
+input {
+    display: block;
+    margin: 8px 0;
+    padding: 8px;
+    width: 100%
+}
